@@ -1,4 +1,4 @@
-# Networking Lab
+# Network Fundamentals
 
 Welcome to my Networking Lab!
 
