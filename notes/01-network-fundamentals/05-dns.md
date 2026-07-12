@@ -24,4 +24,4 @@ This process is called **name resolution**.
 
 ## Related command
 
-[Go to nslookup](../../commands/
+[Go to nslookup](../../commands/nslookup-output)
