@@ -32,4 +32,4 @@ Each device has its own unique address.
 
 See:
 
-[Go to IP Adress and Communication Diagram](../../§diagrams/handwritten/01-network-fundamentals/02-ip-address-and-communication)
+[Go to IP Adress and Communication Diagram](../../diagrams/handwritten/01-network-fundamentals/02-ip-address-and-communication)
