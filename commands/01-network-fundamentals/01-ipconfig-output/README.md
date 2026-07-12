@@ -22,4 +22,4 @@ The `ipconfig` command is one of the first Windows networking tools I learned. I
 
 ## Screenshot
 
-![Windows ipconfig output](ipconfig-output.jpg)
+![Windows ipconfig output](ipconfig-output.png)
