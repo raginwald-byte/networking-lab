@@ -37,4 +37,5 @@ It allows devices from different locations to communicate with each other.
 
 See:
 
-[LAN and Internet] (../../diagrams/handwritten/01-network-fundamentals/01-lan-and-internet/README.md)
+[Go to LAN and Internet Diagram]
+(../../diagrams/handwritten/01-network-fundamentals/01-lan-and-internet)
