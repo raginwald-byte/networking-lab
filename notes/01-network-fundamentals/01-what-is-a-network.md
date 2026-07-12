@@ -30,3 +30,11 @@ Devices inside the same LAN can exchange data directly.
 The Internet is a worldwide network that connects millions of local networks (LANs) together.
 
 It allows devices from different locations to communicate with each other.
+
+---
+
+## Related diagram
+
+See:
+
+`/diagrams/handwritten/01-network-fundamentals/diagram-01-lan-and-internet`
