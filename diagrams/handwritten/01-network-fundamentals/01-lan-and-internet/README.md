@@ -14,4 +14,4 @@ This diagram was drawn by hand while learning the fundamentals of computer netwo
 
 ## Original handwritten diagram
 
-![Original handwritten diagram](original-handwritten-diagram.jpg)
+![Original handwritten diagram](original-handwritten-diagram011.jpg)
