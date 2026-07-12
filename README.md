@@ -24,6 +24,4 @@ Here, I share my notes, diagrams, practical exercises and network-related comman
 
 📁 Diagrams
 
-📁 Screenshots
-
 This repository will be updated regularly as I continue my learning journey.
