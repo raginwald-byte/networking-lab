@@ -14,4 +14,4 @@ This diagram illustrates how different devices communicate using IP addresses.
 
 ## Original handwritten diagram
 
-![Original handwritten diagram](original-handwritten-diagram.jpg)
+![Original handwritten diagram](original-handwritten-diagram012.jpg)
