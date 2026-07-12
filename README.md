@@ -20,6 +20,8 @@ Here, I share my notes, diagrams, practical exercises and network-related comman
 
 📁 Commands
 
+📁 Labs
+
 📁 Diagrams
 
 📁 Screenshots
