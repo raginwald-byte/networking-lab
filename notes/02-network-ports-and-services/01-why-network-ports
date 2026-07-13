@@ -1,0 +1,43 @@
+# Why Network Ports?
+
+## Why aren't IP addresses enough?
+
+An IP address identifies a device on a network.
+
+However, a single device can run multiple network services at the same time. For example, a computer may browse the web, receive emails, and communicate with online applications simultaneously.
+
+To distinguish these different services, computers use **network ports**.
+
+## What is a network port?
+
+A network port is a logical communication endpoint that allows data to reach the correct application running on a device.
+
+A network connection is identified by:
+
+- IP address
+- Port number
+
+For example:
+
+- `192.168.1.25:443`
+- `192.168.1.25:80`
+
+Although both services use the same IP address, they communicate through different ports.
+
+## Example
+
+When you visit a secure website:
+
+- The domain name is translated into an IP address by DNS.
+- Your computer connects to that IP address.
+- The web server receives the request on **port 443 (HTTPS)**.
+
+Without ports, a computer would not know which application should receive incoming data.
+
+---
+
+## Related diagram
+
+See the detailed diagram:
+
+[Ports and Services](../../diagrams/handwritten/02-network-ports-and-services/01-ports-and-services/)
